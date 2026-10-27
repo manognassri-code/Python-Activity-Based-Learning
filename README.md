@@ -1,2 +1,14 @@
-# Python-Activity-Based-Learning
-Python ABL Assignment - Ten Case Studies
+NAME : INDUKURI MANOJNA SATYA SRI,
+ROLL NO : 26000989,
+BRANCH : CSM,
+SECTION :CSM3,
+TITLE1 : Traffic Violation Penalty Calculator,
+TITLE2 : Laboratory Chemical Inventory Validation, 
+TITLE3 : Student Timetable Conflict Detection,
+TITLE4 : Courier Charge Optimization, 
+TITLE5 : Progressive Water Tariff Analysis,
+TITLE6 : Nested Loop Examination Seating Generator, 
+TITLE7 : Advanced Numeric Pattern Generator,
+TITLE8 : Repeated Transaction Detection,
+TITLE9 : Password Policy Validation Engine, 
+TITLE10 : Student Email and Identifier Validation.
